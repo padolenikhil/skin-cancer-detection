@@ -1,0 +1,8 @@
+
+{
+  "name": "Production-Ready Skin Cancer AI System",
+  "description": "A demonstration of a production-grade AI system for skin cancer diagnosis, incorporating concepts like model monitoring, data quality checks, and clinical triage recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
